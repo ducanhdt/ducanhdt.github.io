@@ -283,7 +283,7 @@ params:
     items:
       - title: "Internal LLMs Chatbot"
         content: "Multimodal chatbot using LlamaIndex and OpenAI's ChatGPT-4 for company document queries with Python interpreter and Excel query capabilities."
-        image: /images/projects/chatbot.png
+        # image: /images/projects/chatbot.png
         badges:
           - "LlamaIndex"
           - "OpenAI"
@@ -295,7 +295,7 @@ params:
 
       - title: "Surface Defect Image Generation"
         content: "Adapted SinDiffusion model for few-shot learning on 20-sample dataset, achieving 0.04 SIFID score with Streamlit web interface."
-        image: /images/projects/defect.png
+        # image: /images/projects/defect.png
         badges:
           - "SinDiffusion"
           - "Streamlit"
@@ -306,7 +306,7 @@ params:
 
       - title: "Vietnamese NLU System"
         content: "Context-aware Vietnamese Natural Language Understanding system for banking domain with 97% accuracy and 20% improvement in intent classification."
-        image: /images/projects/nlu.png
+        # image: /images/projects/nlu.png
         badges:
           - "NLP"
           - "Transformer"
@@ -333,7 +333,7 @@ params:
       path: "blogs"
       count: 3
       title: Recent Posts
-      enable: true
+      enable: false
       disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/ducanhdt
