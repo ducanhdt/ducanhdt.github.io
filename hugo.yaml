@@ -141,14 +141,14 @@ params:
     title: "Duc Anh."
     subtitle: "I build intelligent systems with AI and ML"
     content: "A results-oriented Master's student in IT and Cognition at the University of Copenhagen, with extensive hands-on experience in machine learning, NLP, and data engineering. I'm passionate about applying AI to solve complex data challenges."
-    image: /images/hero.svg
+    image: /images/me.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "CV_TrungDucAnhDang.pdf"
       download: true
       newPage: false
     socialLinks:
